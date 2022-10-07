@@ -26,7 +26,7 @@ ___
 <img src="https://img.shields.io/twitter/follow/Pathkbndhu_navo?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a"/></a>
 
 ___
-![Snake animation](https://github.com/ap221882/ap221882/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ap221882/ap221882/blob/output/github-contribution-grid-snake.svg)
 ___
 
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap221882&theme=gruvbox)](https://github.com/ap221882/github-readme-stats)
