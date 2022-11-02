@@ -60,3 +60,8 @@ Skills
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+
+<h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=ap221882"></h3>
+
+ ![](https://komarev.com/ghpvc/?username=ap221882)
