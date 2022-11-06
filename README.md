@@ -28,7 +28,8 @@ ___
 ___
 ![Snake animation](https://github.com/ap221882/ap221882/blob/output/github-contribution-grid-snake.svg)
 ___
-
+![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg)
+___
 [![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap221882&theme=gruvbox)](https://github.com/ap221882/github-readme-stats)
 ***
 
