@@ -22,6 +22,9 @@ For my programming projects, I am an active githubber. Feel free to create a pul
 ___
 *  I'm working around React Ecosystem
 ***
+
+Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo).
+
 <a href="https://www.twitter.com/Pathkbndhu_navo" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/Pathkbndhu_navo?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a"/></a>
 
