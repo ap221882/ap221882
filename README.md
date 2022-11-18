@@ -20,7 +20,7 @@ You can see my work at my [portfolio website](https://ajay-pathak-portfolio.netl
 For my programming projects, I am an active githubber. Feel free to create a pull request for contribution or collaboration to any of my repositories.
 
 ___
-*  I'm working around React Ecosystem
+*  I'm working around React Ecosystem and can build production grade react projects.
 ***
 
 Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo).
