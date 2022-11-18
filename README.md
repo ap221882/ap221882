@@ -16,7 +16,7 @@
 -->
 I am Ajay Pathak, an aspiring full stack web developer with knowledge of latest web technologies. I am proficient in making full blown web applications and especially frontend part of it. I have made static as well as dynamic web pages using HTML, CSS, Javascript. I am proficient in Python and know core Java and C++. 
 You can see my work at my [portfolio website](https://ajay-pathak-portfolio.netlify.app/).
-Apart from this, I am also fond of TypeScript and making beautiful designs using CSS and related frameworks. 
+Apart from this, I am also fond of TypeScript and develop beautiful designs using CSS and related frameworks. 
 
 For my programming projects, I am an active githubber. Feel free to create a pull request for contribution or collaboration to any of my repositories.
 
