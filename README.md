@@ -24,7 +24,7 @@ ___
 *  I'm working around React Ecosystem and can build production grade react projects.
 ***
 
-Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo).
+Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo) or [LinkedIn](https://www.linkedin.com/in/ajay-pathak-webdeveloper).
 
 <a href="https://www.twitter.com/Pathkbndhu_navo" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/Pathkbndhu_navo?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a"/></a>
