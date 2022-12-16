@@ -18,7 +18,7 @@ I am Ajay Pathak, an aspiring full stack web developer with knowledge of latest 
 You can see my work at my [portfolio website](https://ajay-pathak-portfolio.netlify.app/).
 Apart from this, I am also fond of TypeScript and developing beautiful designs using CSS and related frameworks. 
 
-For my programming projects, I am an active githubber. Feel free to create a pull request for contribution or collaboration to any of my repositories.
+For my programming projects, I am an active githubber. Feel free to create a pull request for contributing or collaborating to any of my repositories.
 
 ___
 *  I'm working around React Ecosystem and can build production grade react projects.
