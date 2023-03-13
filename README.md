@@ -14,14 +14,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Ajay Pathak, a full stack web developer with knowledge of latest web technologies. I am proficient in making full blown production-grade web applications and especially frontend part of it. I have built numerous websites using HTML, CSS, Javascript and MERN stack. 
+I am Ajay Pathak, a Frontend Engineer with knowledge of latest web technologies. I am proficient in making full blown production-grade web applications. I have built numerous websites using HTML, CSS, Javascript and MERN stack. 
 
 I LOVE REACTJS, I LOVE BROWSERS.
 
 You can see my work at my [portfolio website](https://ajay-pathak-portfolio.netlify.app/).
-Apart from this, I am also fond of TypeScript and developing beautiful designs using CSS and related frameworks. 
+Apart from these, I am also fond of TypeScript and developing beautiful designs using CSS and related frameworks. 
 
-For my programming projects, I am an active githubber. Feel free to create a pull request for contributing or collaborating to any of my repositories.
+For my web applications, I am an active githubber. Feel free to create a pull request for contributing or collaborating to any of my repositories.
 
 ___
 *  Currently, I'm working around React-TypeScript Ecosystem and I know the internal depths of the ReactJS Library.
