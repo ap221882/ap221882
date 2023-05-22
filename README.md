@@ -23,11 +23,10 @@ Apart from these, I am also fond of TypeScript and developing beautiful designs 
 
 For my web applications, I am an active githubber. Feel free to create a pull request for contributing or collaborating to any of my repositories.
 
-___
-*  Currently, I'm working around React-TypeScript Ecosystem and I know the internal depths of the ReactJS Library.
+
 ***
 
-Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo) or [LinkedIn](https://www.linkedin.com/in/ajay-pathak-webdeveloper) for any query and knowledge I share.
+Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo) or [LinkedIn](https://www.linkedin.com/in/ajay-pathak-webdeveloper) for any queries and the knowledge I share.
 
 <a href="https://www.twitter.com/Pathkbndhu_navo" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/Pathkbndhu_navo?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a"/></a>
