@@ -1,47 +1,33 @@
-# <p align="center">Welcome, Swagatam, Namaste!</p>
+# <p align="center">👋 Welcome, Swagatam, Namaste!</p>
 
-<!--
-**ap221882/ap221882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ajay Pathak, a Frontend Engineer with a passion for the latest web technologies. I love building full-blown production-grade web applications using HTML, CSS, JavaScript, and the MERN stack. 
 
+**I LOVE REACTJS, I LOVE BROWSERS.**
 
+🌐 Check out my [portfolio website](https://ajay-pathak-portfolio.netlify.app/) to see some of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Ajay Pathak, a Frontend Engineer with knowledge of latest web technologies. I am proficient in making full blown production-grade web applications. I have built numerous websites using HTML, CSS, Javascript and MERN stack. 
+Apart from web development, I am also proficient in TypeScript and creating beautiful designs using CSS and related frameworks. I actively contribute to open-source projects on GitHub, so feel free to create pull requests or collaborate with me on any of my repositories.
 
-I LOVE REACTJS, I LOVE BROWSERS.
+---
 
-You can see my work at my [portfolio website](https://ajay-pathak-portfolio.netlify.app/).
-Apart from these, I am also fond of TypeScript and developing beautiful designs using CSS and related frameworks. 
+## 📈 GitHub Stats
 
-For my web applications, I am an active githubber. Feel free to create a pull request for contributing or collaborating to any of my repositories.
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap221882&theme=gruvbox)
 
+---
 
-***
+## 🚀 Top Languages
 
-Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo) or [LinkedIn](https://www.linkedin.com/in/ajay-pathak-webdeveloper) for any queries and the knowledge I share.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ap221882&langs_count=8&layout=compact&theme=gruvbox)
 
-<a href="https://www.twitter.com/Pathkbndhu_navo" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/Pathkbndhu_navo?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a"/></a>
+---
 
-___
+## Skills
 
+Here are some of the technologies and tools I work with:
 
-[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap221882&theme=gruvbox)](https://github.com/ap221882/github-readme-stats)
-***
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ap221882&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/ap22182/github-readme-stats)
-
-___
-
-Skills 
+<p align="left">
+<!-- Skills icons -->
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -66,7 +52,17 @@ Skills
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+</p>
 
-<h3  align="left"><img src="https://visitor-badge.laobi.icu/badge?page_id=ap221882"></h3>
+---
 
- ![](https://komarev.com/ghpvc/?username=ap221882)
+## 📞 Let's Connect
+
+Feel free to reach out to me on [Twitter](https://twitter.com/Pathkbndhu_navo) or [LinkedIn](https://www.linkedin.com/in/ajay-pathak-webdeveloper) if you have any queries or want to discuss something interesting!
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Pathkbndhu_navo?logo=twitter&style=for-the-badge&color=ffffff&labelColor=27272a)](https://www.twitter.com/Pathkbndhu_navo)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ap221882)
+
