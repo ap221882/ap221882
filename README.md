@@ -4,7 +4,7 @@ I am Ajay Pathak, a Frontend Engineer with a passion for the latest web technolo
 
 **I LOVE REACTJS, I LOVE BROWSERS.**
 
-🌐 Check out my [portfolio website](https://ajay-pathak-portfolio.netlify.app/) to see some of my work.
+🌐 Check out my [portfolio website](https://ajay-pathak.com/) to see some of my work.
 
 Apart from web development, I am also proficient in TypeScript and creating beautiful designs using CSS and related frameworks. I actively contribute to open-source projects on GitHub, so feel free to create pull requests or collaborate with me on any of my repositories.
 
