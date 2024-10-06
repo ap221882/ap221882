@@ -1,12 +1,12 @@
 # <p align="center">👋 Welcome, Swagatam, Namaste!</p>
 
-I am Ajay Pathak, a Frontend Engineer with a passion for the latest web technologies. I love building full-blown production-grade web applications using HTML, CSS, JavaScript, and the MERN stack. 
+I am Ajay Pathak, a Frontend Engineer with a passion for the latest web and app technologies. I love building full-blown production-grade web/app applications using HTML, CSS, JavaScript, and the MERN stack. 
 
-**I LOVE REACTJS, I LOVE BROWSERS.**
+**I LOVE REACTJS, REACT-NATIVE, I LOVE BROWSERS.**
 
 🌐 Check out my [portfolio website](https://ajay-pathak.com/) to see some of my work.
 
-Apart from web development, I am also proficient in TypeScript and creating beautiful designs using CSS and related frameworks. I actively contribute to open-source projects on GitHub, so feel free to create pull requests or collaborate with me on any of my repositories.
+Apart from software development, I am also proficient in TypeScript and creating beautiful designs using CSS and related frameworks. I actively contribute to open-source projects on GitHub, so feel free to create pull requests or collaborate with me on any of my repositories.
 
 ---
 
