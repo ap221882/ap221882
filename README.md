@@ -10,12 +10,6 @@ Apart from software development, I am also proficient in TypeScript and creating
 
 ---
 
-## 📈 GitHub Stats
-
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap221882&theme=gruvbox)
-
----
-
 ## 🚀 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ap221882&langs_count=8&layout=compact&theme=gruvbox)
